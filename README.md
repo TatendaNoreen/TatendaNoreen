@@ -20,6 +20,7 @@ The model will run on a colored raster file with multicolored agents being rando
 ---
 **Contributors**
 -Tatenda Noreen Muchopa 
+- Lecture notes from the 18/19(1) GEOG5990M Programming for Geographical Information Analysis: Core Skills (28787)  Learning Resources  [https://www.geog.leeds.ac.uk/courses/computing/study/core-python/]
 
 ---
 # License and Copyright
